@@ -1,0 +1,11 @@
+{
+    "unstable": {
+        "1.0": {
+            "current": "1.0.0-dev-0002",
+            "download": "https://github.com/3D-I/IP-Country-Flags/releases",
+            "announcement": "http://3di.space/32/viewtopic.php?f=4&t=13",
+            "eol": null,
+            "security": false
+        }
+    }
+}
