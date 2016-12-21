@@ -1,0 +1,11 @@
+{
+	"stable": {
+		"2.0": {
+			"current": "2.0.0-rc1",
+			"download": "",
+			"announcement": "http://3di.space/32/viewtopic.php?f=4&t=18",
+			"eol": null,
+			"security": false
+		}
+	}
+}

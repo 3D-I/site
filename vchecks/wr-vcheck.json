@@ -1,0 +1,11 @@
+{
+	"unstable": {
+		"1.0": {
+			"current": "1.0.0-dev-0001",
+			"download": "https://github.com/3D-I/wr/releases",
+			"announcement": "",
+			"eol": null,
+			"security": false
+		}
+	}
+}

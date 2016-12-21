@@ -1,20 +1,20 @@
 {
-    "stable": {
-        "1.0": {
-            "current": "1.0.0-b3",
-            "download": "https://github.com/3D-I/notebbcode/archive/1.0.0-b3.zip",
-            "announcement": "",
-            "eol": null,
-            "security": false
-        }
-    },
-    "unstable": {
-        "1.1": {
-            "current": "",
-            "download": "",
-            "announcement": "",
-            "eol": null,
-            "security": false
-        }
-    }
+	"stable": {
+		"1.0": {
+			"current": "1.0.0-b3",
+			"download": "https://github.com/3D-I/notebbcode/archive/1.0.0-b3.zip",
+			"announcement": "",
+			"eol": null,
+			"security": false
+		}
+	},
+	"unstable": {
+		"1.1": {
+			"current": "",
+			"download": "",
+			"announcement": "",
+			"eol": null,
+			"security": false
+		}
+	}
 }
