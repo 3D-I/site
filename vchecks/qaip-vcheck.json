@@ -1,9 +1,9 @@
 {
 	"stable": {
 		"1.0": {
-			"current": "1.0.0-b1",
-			"download": "",
-			"announcement": "",
+			"current": "1.0.0-b2",
+			"download": "http://3di.space/32/viewtopic.php?f=4&t=30",
+			"announcement": "http://3di.space/32/viewtopic.php?f=4&t=30",
 			"eol": null,
 			"security": false
 		}
