@@ -1,6 +1,15 @@
 {
 	"stable": {
 		"1.0": {
+			"current": "1.0.0-rc2",
+			"download": "",
+			"announcement": "",
+			"eol": null,
+			"security": false
+		}
+	},
+	"unstable": {
+		"1.0": {
 			"current": "1.0.0-rc1",
 			"download": "",
 			"announcement": "",
