@@ -1,9 +1,9 @@
 {
 	"stable": {
 		"1.0": {
-			"current": "1.0.0-rc1",
-			"download": "",
-			"announcement": "",
+			"current": "1.0.0-rc2",
+			"download": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2436976",
+			"announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2436976",
 			"eol": null,
 			"security": false
 		}
