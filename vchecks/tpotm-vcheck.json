@@ -1,7 +1,7 @@
 {
 	"stable": {
 		"1.1": {
-			"current": "1.1.0-rc4",
+			"current": "1.1.0-rc5",
 			"download": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2438406",
 			"announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2438406",
 			"eol": null,
@@ -10,7 +10,7 @@
 	},
 	"un-stable": {
 		"1.1": {
-			"current": "1.1.0-rc3",
+			"current": "1.1.0-rc4",
 			"download": "",
 			"announcement": "",
 			"eol": null,
