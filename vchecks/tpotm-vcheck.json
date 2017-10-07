@@ -2,7 +2,7 @@
 	"stable": {
 		"2.0": {
 			"current": "2.0.0-rc2",
-			"download": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2438406",
+			"download": "https://github.com/3D-I/tpotm/files/1364389/threedi_tpotm_RC2_200.zip",
 			"announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2438406",
 			"eol": null,
 			"security": false
