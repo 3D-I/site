@@ -6,6 +6,14 @@
 			"announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2438406",
 			"eol": null,
 			"security": false
+		},
+	"unstable": {
+		"2.0": {
+			"current": "2.0.1-rc",
+			"download": "",
+			"announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2438406",
+			"eol": null,
+			"security": false
 		}
 	}
 }
