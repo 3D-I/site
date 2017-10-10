@@ -2,7 +2,7 @@
 	"stable": {
 		"2.0": {
 			"current": "2.0.2-rc",
-			"download": "",
+			"download": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2438406",
 			"announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2438406",
 			"eol": null,
 			"security": false
@@ -11,7 +11,7 @@
 		"2.0": {
 			"current": "2.0.1-rc",
 			"download": "",
-			"announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2438406",
+			"announcement": "",
 			"eol": null,
 			"security": false
 		}
