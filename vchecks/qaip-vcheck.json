@@ -1,7 +1,7 @@
 {
 	"stable": {
 		"1.0": {
-			"current": "1.0.2-beta",
+			"current": "1.0.2-rc",
 			"download": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2410161",
 			"announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2410161",
 			"eol": null,
