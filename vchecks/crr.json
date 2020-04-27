@@ -1,9 +1,9 @@
 {
 	"stable": {
 		"2.0": {
-			"current": "2.0.2-rc",
+			"current": "2.0.3-rc",
 			"download": "",
-			"announcement": "https://phpbbstudio.com",
+			"announcement": "https://phpbbstudio.com/viewtopic.php?f=44&t=229",
 			"eol": null,
 			"security": false
 		}
