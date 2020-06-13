@@ -1,0 +1,11 @@
+{
+	"stable": {
+		"1.0": {
+			"current": "1.0.0-RC",
+			"download": "",
+			"announcement": "https://phpbbstudio.com/viewtopic.php?f=23&t=36",
+			"eol": null,
+			"security": false
+		}
+	}
+}
