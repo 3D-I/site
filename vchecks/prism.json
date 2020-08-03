@@ -1,7 +1,7 @@
 {
 	"stable": {
 		"1.0": {
-			"current": "1.0.0-a1",
+			"current": "1.0.0-beta",
 			"download": "",
 			"announcement": "https://phpbbstudio.com",
 			"eol": null,
