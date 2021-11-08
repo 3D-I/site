@@ -1,7 +1,7 @@
 {
 	"stable": {
-		"2.0": {
-			"current": "2.0.4-RC",
+		"2.1": {
+			"current": "2.1.0-RC",
 			"download": "",
 			"announcement": "https://phpbbstudio.com/viewtopic.php?f=54&t=383",
 			"eol": null,
