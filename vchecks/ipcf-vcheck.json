@@ -1,9 +1,9 @@
 {
 	"stable": {
-		"1.0": {
-			"current": "1.0.0-b3",
+		"3.0": {
+			"current": "3.0.1-beta",
 			"download": "",
-			"announcement": "http://3di.space/32/viewtopic.php?f=4&t=13",
+			"announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2607121",
 			"eol": null,
 			"security": false
 		}
